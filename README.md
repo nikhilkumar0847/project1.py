@@ -16,4 +16,11 @@ so bascically github have also four commands like :--
 
 4. unmodified it means the file is unchanged
 
- 
+many more commands like 
+
+1. aadd command 
+2. commit command
+
+on the other hand 
+
+1. push command
